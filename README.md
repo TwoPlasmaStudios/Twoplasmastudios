@@ -44,10 +44,10 @@ We work across multiple domains, so our stack is diverse:
 | Project | Description | Status |
 |---------|-------------|--------|
 | [🎞️ myorkslydes](https://github.com/twoplasmastudios/myorkslydes) | Interactive web-based slide editor with save/load support. | 🟡 Beta |
-| [✍️ myorktext](https://github.com/twoplasmastudios/myorktext) | A custom `.myorktxt` file editor with rich formatting, privacy-first. | 🟢 Stable |
-| [🏭 project-neo-tycoon](https://github.com/twoplasmastudios/project-neo-tycoon) | Mini business simulation game. Build factories, manage resources. | 🔴 Early Dev |
-| [💻 auto-py-to-apk](https://github.com/twoplasmastudios/auto-py-to-apk) | One-click Python to desktop app converter. | 🟡 Beta |
-| [📱 auto-py-to-apkserver](https://github.com/twoplasmastudios/auto-py-to-apkserver) | Server side for converting Python scripts to APK. | 🔴 Alpha |
+| [✍️ myorktext](https://github.com/twoplasmastudios/myorktext) | A custom `.myorktxt` file editor with rich formatting, privacy-first. | 🟡 Beta |
+| [🏭 project-neo-tycoon](https://github.com/twoplasmastudios/project-neo-tycoon) | Mini business simulation game. Build factories, manage resources. | 🟡 Beta |
+| [💻 auto-py-to-apk](https://github.com/twoplasmastudios/auto-py-to-apk) | One-click Python to desktop app converter. | 🔴 Early Dev |
+| [📱 auto-py-to-apkserver](https://github.com/twoplasmastudios/auto-py-to-apkserver) | Server side for converting Python scripts to APK. | 🔴 Early Dev |
 | [🔐 auto-.pfx-generator](https://github.com/twoplasmastudios/auto-.pfx-generator) | Browser-based .pfx certificate generator. | 🟢 Stable |
 
 **Legend:** 🟢 Stable · 🟡 Beta · 🔴 Alpha / Early Dev
@@ -114,10 +114,10 @@ Ekibimiz, ister bir slayt editörü, ister özel bir metin formatı veya mini bi
 | Proje | Açıklama | Durum |
 |-------|----------|-------|
 | [🎞️ myorkslydes](https://github.com/twoplasmastudios/myorkslydes) | Web tabanlı etkileşimli slayt editörü, kaydet/yükle özellikli. | 🟡 Beta |
-| [✍️ myorktext](https://github.com/twoplasmastudios/myorktext) | `.myorktxt` dosyaları için özel editör, zengin biçimlendirme, gizlilik odaklı. | 🟢 Kararlı |
-| [🏭 project-neo-tycoon](https://github.com/twoplasmastudios/project-neo-tycoon) | Mini işletme simülasyonu. Fabrika kur, kaynak yönet. | 🔴 Erken Geliştirme |
-| [💻 auto-py-to-apk](https://github.com/twoplasmastudios/auto-py-to-apk) | Python'ı tek tıkla masaüstü uygulamasına çevirici. | 🟡 Beta |
-| [📱 auto-py-to-apkserver](https://github.com/twoplasmastudios/auto-py-to-apkserver) | Python betiklerini APK'ya dönüştürmek için sunucu tarafı. | 🔴 Alfa |
+| [✍️ myorktext](https://github.com/twoplasmastudios/myorktext) | `.myorktxt` dosyaları için özel editör, zengin biçimlendirme, gizlilik odaklı. | 🟡 Beta |
+| [🏭 project-neo-tycoon](https://github.com/twoplasmastudios/project-neo-tycoon) | Mini işletme simülasyonu. Fabrika kur, kaynak yönet. | 🟡 Beta |
+| [💻 auto-py-to-apk](https://github.com/twoplasmastudios/auto-py-to-apk) | Python'ı tek tıkla masaüstü uygulamasına çevirici. | 🔴 Erken Geliştirme |
+| [📱 auto-py-to-apkserver](https://github.com/twoplasmastudios/auto-py-to-apkserver) | Python betiklerini APK'ya dönüştürmek için sunucu tarafı. | 🔴 Erken Geliştirme |
 | [🔐 auto-.pfx-generator](https://github.com/twoplasmastudios/auto-.pfx-generator) | Tarayıcı tabanlı .pfx sertifika üreteci. | 🟢 Kararlı |
 
 **Lejant:** 🟢 Kararlı · 🟡 Beta · 🔴 Alfa / Erken Geliştirme
@@ -183,10 +183,10 @@ Unsere Arbeit umfasst verschiedene Bereiche, daher ist unser Stack breit gefäch
 | Projekt | Beschreibung | Status |
 |---------|--------------|--------|
 | [🎞️ myorkslydes](https://github.com/twoplasmastudios/myorkslydes) | Interaktiver webbasierter Folien‑Editor mit Speichern/Laden. | 🟡 Beta |
-| [✍️ myorktext](https://github.com/twoplasmastudios/myorktext) | Editor für `.myorktxt`‑Dateien mit Rich‑Formatting, datenschutzfreundlich. | 🟢 Stabil |
-| [🏭 project-neo-tycoon](https://github.com/twoplasmastudios/project-neo-tycoon) | Mini‑Unternehmenssimulation. Fabriken bauen, Ressourcen verwalten. | 🔴 Frühe Entwicklung |
-| [💻 auto-py-to-apk](https://github.com/twoplasmastudios/auto-py-to-apk) | Python‑Skripte per Klick in Desktop‑Apps umwandeln. | 🟡 Beta |
-| [📱 auto-py-to-apkserver](https://github.com/twoplasmastudios/auto-py-to-apkserver) | Server‑Seite für die Umwandlung von Python in APK. | 🔴 Alpha |
+| [✍️ myorktext](https://github.com/twoplasmastudios/myorktext) | Editor für `.myorktxt`‑Dateien mit Rich‑Formatting, datenschutzfreundlich. | 🟡 Beta |
+| [🏭 project-neo-tycoon](https://github.com/twoplasmastudios/project-neo-tycoon) | Mini‑Unternehmenssimulation. Fabriken bauen, Ressourcen verwalten. | 🟡 Beta |
+| [💻 auto-py-to-apk](https://github.com/twoplasmastudios/auto-py-to-apk) | Python‑Skripte per Klick in Desktop‑Apps umwandeln. | 🔴 Frühe Entwicklung |
+| [📱 auto-py-to-apkserver](https://github.com/twoplasmastudios/auto-py-to-apkserver) | Server‑Seite für die Umwandlung von Python in APK. | 🔴 Frühe Entwicklung |
 | [🔐 auto-.pfx-generator](https://github.com/twoplasmastudios/auto-.pfx-generator) | Browser‑basierter .pfx‑Zertifikatgenerator. | 🟢 Stabil |
 
 **Legende:** 🟢 Stabil · 🟡 Beta · 🔴 Alpha / Frühe Entwicklung
