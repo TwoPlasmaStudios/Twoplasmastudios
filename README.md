@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/0d1117/58a6ff?text=🚀+Two+Plasma+Studios" alt="Two Plasma Studios Banner" />
+  <img src="https://raw.githubusercontent.com/TwoPlasmaStudios/Twoplasmastudios/main/assets/46e70d34-30c2-4294-9282-0c578ca3cbff.jpg?text=🚀+Two+Plasma+Studios" alt="Two Plasma Studios Banner" />
 </p>
 
 <p align="center">
